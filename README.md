@@ -1,8 +1,6 @@
 # Ferramentas Linux
 Pack Tools Linux
 
-[@author Erika Heidi]
-
 Pode ser utilizado para atualizar os certificados expirados. 
 
 ## Execute:
@@ -17,6 +15,9 @@ Pode ser utilizado para atualizar os certificados expirados.
 
 O que ele tem de diferente?
 - Nada! Apenas copei.
+
+
+**@author Erika Heidi
 
 
 
