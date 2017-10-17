@@ -1,10 +1,11 @@
 # Ferramentas Linux
 Pack Tools Linux
-[@author Erika Heidi<erika@do.co>]
+
+[@author Erika Heidi]
 
 Pode ser utilizado para atualizar os certificados expirados. 
 
-Execute:
+## Execute:
 
 ```
 ~: mkdir /etc/letsencript
