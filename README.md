@@ -17,7 +17,7 @@ O que ele tem de diferente?
 - Nada! Apenas copei.
 
 
-**@author Erika Heidi
+`@author Erika Heidi`
 
 
 
